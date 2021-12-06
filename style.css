@@ -17,13 +17,13 @@ body{
 }
 .child{
     margin: 20px;
-    width: 240px;
-    background: 15273F;
+    width: 290px;
+    background: #15273F;
     box-shadow: 0px 0px 10px 5px #0C1729;
     border-radius: 10px;
 }
 .card{
-    padding: 12px;
+    padding: 16px;
 
 }
 .info h3{
